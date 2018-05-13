@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{E79F27E3-2F20-4C39-BEC5-59978FF792B2}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DevPuzzle/Puzzle3.cs">
+    <Files>
+      <File FileName="DevPuzzle/Puzzle1.cs" Line="1" Column="1" />
+      <File FileName="DevPuzzle/Puzzle2.cs" Line="1" Column="1" />
+      <File FileName="DevPuzzle/Puzzle3.cs" Line="7" Column="1" />
+      <File FileName="DevPuzzle/Puzzle4.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DevPuzzle PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

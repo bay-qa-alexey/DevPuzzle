@@ -1,0 +1,9 @@
+/Users/alexeykirchatykh/my_repos/DevPuzzle/DevPuzzle/obj/Debug/DevPuzzle.csprojResolveAssemblyReference.cache
+/Users/alexeykirchatykh/my_repos/DevPuzzle/DevPuzzle/obj/Debug/DevPuzzle.csproj.CoreCompileInputs.cache
+/Users/alexeykirchatykh/my_repos/DevPuzzle/DevPuzzle/bin/Debug/DevPuzzle.dll
+/Users/alexeykirchatykh/my_repos/DevPuzzle/DevPuzzle/bin/Debug/DevPuzzle.pdb
+/Users/alexeykirchatykh/my_repos/DevPuzzle/DevPuzzle/bin/Debug/nunit.framework.dll
+/Users/alexeykirchatykh/my_repos/DevPuzzle/DevPuzzle/bin/Debug/nunit.framework.pdb
+/Users/alexeykirchatykh/my_repos/DevPuzzle/DevPuzzle/bin/Debug/nunit.framework.xml
+/Users/alexeykirchatykh/my_repos/DevPuzzle/DevPuzzle/obj/Debug/DevPuzzle.dll
+/Users/alexeykirchatykh/my_repos/DevPuzzle/DevPuzzle/obj/Debug/DevPuzzle.pdb
